@@ -11,7 +11,7 @@
 <form method="post" action="login">
 	name<input type="text" name="username"/>
 	<input type="submit" value="submit"/>
-	hello world
+	hello world!
 </form>
 </body>
 </html>
